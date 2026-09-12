@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 92" role="img" aria-labelledby="title">
+  <title id="title">Controlled epistemic evolution</title>
+  <rect width="720" height="92" rx="8" fill="#ffffff"/>
+  <g fill="none" stroke-linecap="square">
+    <path d="M36 66L74 28" stroke="#08783e" stroke-width="8"/>
+    <path d="M160 28L198 66M160 66L198 28" stroke="#08783e" stroke-width="8"/>
+    <path d="M294 28L332 66M294 66L332 28" stroke="#08783e" stroke-width="8"/>
+    <path d="M272 61L302 31M324 61L354 31" stroke="#5b625d" stroke-width="3"/>
+    <path d="M438 28L476 66M438 66L476 28" stroke="#08783e" stroke-width="8"/>
+    <path d="M410 61L440 31M474 61L504 31M410 31L440 61M474 31L504 61" stroke="#5b625d" stroke-width="3"/>
+    <path d="M582 28L620 66M582 66L620 28" stroke="#08783e" stroke-width="8"/>
+    <path d="M548 61L578 31M624 61L654 31M548 31L578 61M624 31L654 61" stroke="#5b625d" stroke-width="3"/>
+    <circle cx="601" cy="47" r="4" fill="#5b625d" stroke="none"/>
+  </g>
+</svg>
